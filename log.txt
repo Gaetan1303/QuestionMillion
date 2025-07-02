@@ -1,37 +1,37 @@
 Q1: Quelle est la capitale de la France ?
-Réponse donnée: Paris
+Réponse donnée: Rome
 Bonne réponse: Paris
-Résultat: Vrai
+Résultat: Faux
 
 Q2: Quelle est la plus grande planète du système solaire ?
-Réponse donnée: Jupiter
+Réponse donnée: Mars
 Bonne réponse: Jupiter
-Résultat: Vrai
+Résultat: Faux
 
 Q3: Quel est le plus grand océan de la Terre ?
-Réponse donnée: Atlantique
+Réponse donnée: Indien
 Bonne réponse: Pacifique
 Résultat: Faux
 
 Q4: Quel est le plus haut sommet du monde ?
-Réponse donnée: Mont Everest
+Réponse donnée: K2
 Bonne réponse: Mont Everest
-Résultat: Vrai
-
-Q5: Quel est l'élément chimique dont le symbole est 'O' ?
-Réponse donnée: Oxygène
-Bonne réponse: Oxygène
-Résultat: Vrai
-
-Q6: Quel est le plus grand mammifère terrestre ?
-Réponse donnée: Girafe
-Bonne réponse: Éléphant
 Résultat: Faux
 
+Q5: Quel est l'élément chimique dont le symbole est 'O' ?
+Réponse donnée: Or
+Bonne réponse: Oxygène
+Résultat: Faux
+
+Q6: Quel est le plus grand mammifère terrestre ?
+Réponse donnée: Éléphant
+Bonne réponse: Éléphant
+Résultat: Vrai
+
 Q7: Quel est le pays le plus peuplé du monde ?
-Réponse donnée: Chine
+Réponse donnée: Aucune
 Bonne réponse: Inde
 Résultat: Faux
 
-Score final: 40/70
+Score final: 10/70
 
