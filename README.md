@@ -7,8 +7,8 @@ Ce projet est un exemple simple d'application écrite en Go pour illustrer les t
 ## Installation
 
 ```bash
-git clone https://github.com/Gaetan1303/GolangTest.git
-cd GolangTest
+git clone https://github.com/Gaetan1303/QuestionMillion.git
+cd QuestionMillion
 go mod tidy
 ```
 
